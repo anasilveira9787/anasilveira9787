@@ -5,7 +5,7 @@
 - 👯 Estou procurando colaborar em qualquer projeto de front, como dev ou UX Designer.
 - 🤔 Estou procurando ajuda com tudo <3 Qualquer dica é super bem-vinda!
 - 💬 Pergunte-me sobre design, usabilidade e experiência de consumo!
-- ⚡ Curiosidade: gosto de estudar ouvindo metal
+- ⚡ Curiosidade: codo ouvindo metal
 
 
 ## Aprendendo: 
