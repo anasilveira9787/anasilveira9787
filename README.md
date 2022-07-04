@@ -1,11 +1,5 @@
 # Hi, i'm Ana! Glad you're here! ☺️
 
-- 🔭 I'm working as Community Experience Analyst at @Rocketseat
-- 🌱 I'm learning front-end and UX design.
-- 👯 I'm looking foward to collaborate with any project I'm able to help.
-- 💬 Ask me about customer experience design!
-- ⚡ Fun fact about me: I have two mixed-breed dogs, Amora and Stella.
-
 ## I can help with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"   width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"   width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"    width="40" height="40" /> 
 
