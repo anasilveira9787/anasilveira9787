@@ -3,7 +3,7 @@
 - 🔭 I'm working as Community Experience Analyst at @Rocketseat
 - 🌱 I'm learning front-end and UX design.
 - 👯 I'm looking foward to collaborate with any project I'm able to help.
-- 💬 Ask me about customer experience and design tools!
+- 💬 Ask me about customer experience design!
 - ⚡ Fun fact about me: I have two mixed-breed dogs, Amora and Stella.
 
 
