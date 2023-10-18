@@ -1,7 +1,15 @@
 # Hi, i'm Ana! Glad you're here! ☺️
 
 ## I can help with:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"   width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"   width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg"    width="40" height="40" /> 
+- Javascript
+- React
+- Node
+- CSS / HTML
+- Tailwind
+- markup languages
+- Databases
+- Flows and charts
+- Tech Writing
 
 ## Contact:
 <a href="https://instagram.com/anaccord" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
