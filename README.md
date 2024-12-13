@@ -2,7 +2,7 @@
 
 ## I can help with:
 - Javascript
-- React
+- React, Angular and Vue.js
 - Node
 - CSS / HTML
 - Tailwind
